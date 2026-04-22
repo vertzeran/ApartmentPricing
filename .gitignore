@@ -1,0 +1,9 @@
+venv/
+data/*.csv
+__pycache__/
+*.pyc
+*.log
+.env
+*.json
+!data/.gitkeep
+bundle.js
